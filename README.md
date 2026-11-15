@@ -12,8 +12,8 @@ My first practice project in learning web development. This page was built to pr
 * CSS3
 
 ## Live Demo
-* **Main Version:** https://github.io
-* **Profile Version:** https://github.io
+* **Main Version:** https://alkhalififaiz75-dot.github.io/personal-website/
+* **Profile Version:** https://alkhalififaiz75-dot.github.io/personal-website/folders/
 
 ---
 *Created as part of my journey to becoming a Web Developer.*
