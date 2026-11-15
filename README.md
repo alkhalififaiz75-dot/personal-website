@@ -13,7 +13,7 @@ My first practice project in learning web development. This page was built to pr
 
 ## Live Demo
 * **Main Version:** `https://github.io`
-* **Profile Version:** `https://github.iofolders/`
+* **Profile Version:** `https://github.io`
 
 ---
 *Created as part of my journey to becoming a Web Developer.*
